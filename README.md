@@ -8,15 +8,15 @@
  $ pkg install play-audio 
  $ pip install requests bs4 futures
  $ pip install rich
- $ rm -rf Chang1
- $ git clone https://github.com/ChangzFB/Chang1
+ $ rm -rf ChangFB
+ $ git clone https://github.com/SyamsulB/ChangFB
  ```
 
 ###### Run Script
 
 ```
- $ cd rm -rf Chang1
- $ cd Chang1
+ $ cd rm -rf ChangFB
+ $ cd ChangFB
  $ git pull
  $ python Chang.py
 ```
